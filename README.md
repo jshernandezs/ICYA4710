@@ -3,7 +3,7 @@
 En este curso vamos a utilizar python 3.9. Para ello, recomiendo la instalación de Anaconda y de jupyterlab para trabajar con notebooks. En Windows, se pueden seguir los siguientes pasos:
 
 1. Descargar e instalar [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Windows-x86_64.exe)
-2. Una vez instalado, ir a Inicio -> Todas las aplcaciones -> Anaconda3 -> Anaconda Powershell Prompt
+2. Una vez instalado, ir a Inicio -> Todas las aplicaciones -> Anaconda3 -> Anaconda Powershell Prompt
 3. Luego de abierta la terminal, ejecutar el siguiente comando:
   ```powershell
   conda create -n icya4710 -y python==3.9 numpy pandas matplotlib jupyterlab
